@@ -30,6 +30,6 @@ https://ram-dev.store/
 -2
 
 
-واستبدله بدال الي عندك permissions.cfg حمل ملف 
+ حمل ملف permissions.cfg  واستبدله بدال الي عندك
 
 
